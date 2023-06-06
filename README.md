@@ -1,5 +1,5 @@
 # Hi 👋, I'm BOO MINSEONG
-## I'm a 1st-year student Master-Phd on [UNIST LIL](https://sites.google.com/view/language-intelligence-lab)
+## I'm a 1st-year student Master-Phd on [UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab)
 
 - 🔭 I am interested in the field of **natural language processing**, and among them, I am interested in **PEFT** methodology and its application for efficient use of LLM. 
 
