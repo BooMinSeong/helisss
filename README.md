@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm BOO MINSEONG</h1>
-<h3 align="center">I'm a 1st year student Master-Phd degree on UNIST AIGS</h3>
+<h3 align="center">I'm a 1st-year student Master-Phd degree on UNIST LIL[[https://sites.google.com/view/language-intelligence-lab]]</h3>
 
-- 🔭 I’m currently working on **NLP, PEFT,**
+- 🔭 I am interested in the field of **natural language processing**, and among them, I am interested in **PEFT** methodology and its application for efficient use of LLM. 
 
-- 📫 How to reach me **phisicsmusic@gmail.com**
+- 📫 How to reach me **phisicsmusic@unist.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
