@@ -3,7 +3,7 @@
 
 - 🔭 I am interested in the field of **natural language processing**, and among them, I am interested in **PEFT** methodology and its application for efficient use of LLM. 
 
-- 📫 How to reach me **phisicsmusic@unist.ac.kr**
+- 📫 How to reach me **b.ms@unist.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
